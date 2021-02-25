@@ -1,0 +1,28 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+body{
+    width: 90%;
+    padding: 5%;
+}
+.outline{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.first{
+    border-top: 1px solid black;
+}
+.last{
+    border-bottom: 1px solid black;
+}
+table{
+    width: 100%;
+}
+td{
+    width: 20%;
+}
+button{
+    width: 175px;
+    margin: 20 50%;
+}

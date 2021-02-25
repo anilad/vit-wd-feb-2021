@@ -1,0 +1,14 @@
+table{
+    border: 2px solid black;
+    width: 90%;
+}
+th {
+    background-color: grey;
+    text-align: left;
+}
+tr{
+    height: 25px;
+}
+tr:nth-child(odd){
+    background-color: lightgray;
+}
