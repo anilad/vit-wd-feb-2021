@@ -1,0 +1,15 @@
+h1, h2, h3{
+    text-align: right;
+    font-size: 58px;
+    text-transform: lowercase;
+}
+h1{
+    color: orange;
+    font-family: DotGothic16;
+}
+h2{
+    color: purple;
+}
+h3{
+    color: cadetblue;
+}

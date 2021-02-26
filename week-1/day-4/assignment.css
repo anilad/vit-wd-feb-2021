@@ -1,0 +1,44 @@
+*{
+    /* margin: 0 auto; */
+    font-family: 'Open Sans Condensed', 'Arial Narrow', sans-serif;
+}
+div{
+    display: inline-block;
+    width: 30%;
+}
+img{
+    width:100%;
+}
+#left{
+    text-align: center;
+}
+#center{
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+#logo{
+    width: 33%;
+    margin: 0 33%;
+}
+#flag{
+    width: 95%;
+    margin: 2.5%;
+}
+.header{
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 10%;
+    font-size: 3em;
+}
+.title{
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    text-align: center;
+    font-weight: 900;
+    font-size: 3em;
+    margin-bottom: 10%;
+}
+.socials{
+    font-size: 2em;
+    font-weight: lighter;
+}
