@@ -11,7 +11,7 @@ img{
 }
 #imgSlider{
     display: flex;
-    animation: carousel 10s infinite;
+    animation: carousel 15s infinite;
 }
 @keyframes carousel{
     from {
