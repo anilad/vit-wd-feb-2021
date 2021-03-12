@@ -20,5 +20,3 @@ equalsButton.addEventListener('click', () => {
 clearButton.addEventListener('click', () => { 
   display.textContent = ""
 })
-
-display.textContent = "Yummy Math"

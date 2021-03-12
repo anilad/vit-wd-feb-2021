@@ -1,0 +1,15 @@
+*{
+    margin: 10 auto;
+    text-align: center;
+    background-color: lightgrey;
+}
+form{
+    margin-top: 10vh;
+}
+#taskList{
+    width: 50%;
+    height: 70vh;
+    border: lavenderblush dashed 3px;
+    margin: 10px auto;
+    overflow: scroll;
+}
